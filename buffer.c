@@ -11,6 +11,5 @@ int main(int argc, char *argv[]){
         printf("Buffer1: %s\n\n", buffer1);
 
         system(buffer1);
-
         return 0;
 }
