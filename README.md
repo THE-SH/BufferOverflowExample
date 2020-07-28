@@ -1,5 +1,5 @@
 $ apt install git<br>
-$ git clone https://github.com/TkaTheGod/BufferOverflowExample.git<br>
+$ git clone https://github.com/THE-SH/BufferOverflowExample.git<br>
 $ cd BufferOverflowExample<br>
 $ gcc buffer.c -o buffer<br>
 $ chmod +x buffer<br>
